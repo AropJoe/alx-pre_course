@@ -1,2 +1,2 @@
-#alx-pre_course repository
+# alx-pre_course repository
 My first readme
